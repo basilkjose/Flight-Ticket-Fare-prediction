@@ -9,6 +9,7 @@
   * [Technical Aspect](#technical-aspect)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
+  * [To Do](#to-do)
   * [Technologies Used](#technologies-used)
 
 ## Demo
@@ -75,6 +76,11 @@ This project is divided into two part:
 ├── flight_rf.pkl
 ├── requirements.txt
 ```
+## To Do
+* Use multiple Algorithms
+* Optimize Flask app.py
+* Front-End 
+
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
