@@ -73,6 +73,7 @@ This project is divided into two part:
 ## Deployement on Heroku
 ![Screenshot (197)](https://user-images.githubusercontent.com/37875797/119140674-14980300-ba62-11eb-942d-d5dca1b1d4c5.png)
 
+For more information read this [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
 ```
