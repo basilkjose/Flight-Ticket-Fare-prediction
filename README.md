@@ -23,7 +23,7 @@ Dataset-https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 
 This Project is used to predict the flight prices. We will use Flight Price Dataset provided by Kaggle Flight Price. This dataset consists of 10683 records with 13 columns that explain about the flight in India by some Indian and foreign Airlines in 2019.
 
- --FEATURES--
+ -- FEATURES --
  
 * Airline: The name of the airline.
 * Date_of_Journey: The date of the journey
@@ -36,3 +36,7 @@ This Project is used to predict the flight prices. We will use Flight Price Data
 * Total_Stops: Total stops between the source and destination.
 * Additional_Info: Additional information about the flight
 * Price: The price of the ticket
+
+## Feature Engineering
+* Made Columns for Day and Month out of Date of Journey
+* Calculated the total flight duration
