@@ -42,3 +42,11 @@ This Project is used to predict the flight prices. We will use Flight Price Data
 *  Made features for departure hour and departure minute out of departure time.
 *  Made features for arrival hour and arrival minute out of arrival time.
 *  Calculated the total flight duration
+
+## Modeling
+Algorithms used
+* Extra Trees Regressor
+
+Metric - Since the target variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) and R2 Score (Coefficient of Determination) have been use
+Test R2 Score = 0.812
+Test RMSE Score = 2015.6
