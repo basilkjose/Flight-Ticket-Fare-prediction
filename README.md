@@ -2,7 +2,7 @@
 
 
 
-
+![maxresdefault (1)](https://user-images.githubusercontent.com/37875797/119112462-ba874580-ba41-11eb-9e5a-8c2ef0085233.jpg)
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
@@ -17,7 +17,9 @@
 
 ## Demo
 Web App Link - https://flightfarepredictors.herokuapp.com/predict
-![maxresdefault (1)](https://user-images.githubusercontent.com/37875797/119112462-ba874580-ba41-11eb-9e5a-8c2ef0085233.jpg)
+![Screenshot (196)](https://user-images.githubusercontent.com/37875797/119140894-4dd07300-ba62-11eb-84f7-8d773bb553dc.png)
+
+
 
 ## Overview
 Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travellers saying that flight ticket prices are so unpredictable. Huh! Here we take on the challenge! As data scientists, we are gonna prove that given the right data anything can be predicted.
