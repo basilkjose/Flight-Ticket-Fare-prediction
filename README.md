@@ -9,7 +9,6 @@
   * [Technical Aspect](#technical-aspect)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
-  * [To Do](#to-do)
   * [Technologies Used](#technologies-used)
 
 ## Demo
@@ -76,3 +75,8 @@ This project is divided into two part:
 ├── flight_rf.pkl
 ├── requirements.txt
 ```
+## Technologies Used
+* Flask
+* Heroku
+* Sklearn
+* Google colab
