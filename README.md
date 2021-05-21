@@ -38,5 +38,7 @@ This Project is used to predict the flight prices. We will use Flight Price Data
 * Price: The price of the ticket
 
 ## Feature Engineering
-* Made Columns for Day and Month out of Date of Journey
-* Calculated the total flight duration
+*  Made features for Day and Month out of Date of Journey
+*  Made features for departure hour and departure minute out of departure time.
+*  Made features for arrival hour and arrival minute out of arrival time.
+*  Calculated the total flight duration
