@@ -44,7 +44,7 @@ This Project is used to predict the flight prices. We will use Flight Price Data
 *  Calculated the total flight duration
 
 ## Modeling
-It is machine learning regression preoblem.
+It is a machine learning regression preoblem.
 
 Algorithms used
 * Extra Trees Regressor
@@ -53,3 +53,12 @@ Metric - Since the target variable is a continuous variable, regression evaluati
 
 * Test R2 Score = 0.812
 * Test RMSE Score = 2015.6
+
+## Technical Aspect
+This project is divided into two part:
+
+1) Training imdb dataset using machine learning models
+2) Deployement of model
+
+* For training purposes, we use sklrean library.
+* For deployment, we use Flask and Heroku.
