@@ -49,5 +49,5 @@ Algorithms used
 
 Metric - Since the target variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) and R2 Score (Coefficient of Determination) have been use
 
-Test R2 Score = 0.812
-Test RMSE Score = 2015.6
+* Test R2 Score = 0.812
+* Test RMSE Score = 2015.6
