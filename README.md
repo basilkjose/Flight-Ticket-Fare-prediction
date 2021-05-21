@@ -1,4 +1,3 @@
-# Flight Ticket Fare Prediction
 ![maxresdefault (1)](https://user-images.githubusercontent.com/37875797/119112462-ba874580-ba41-11eb-9e5a-8c2ef0085233.jpg)
 
 ## Table of Content
