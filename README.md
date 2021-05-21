@@ -1,3 +1,4 @@
+![Screenshot (196)](https://user-images.githubusercontent.com/37875797/119140608-ffbb6f80-ba61-11eb-9172-1f021648b452.png)
 
 
 ![maxresdefault (1)](https://user-images.githubusercontent.com/37875797/119112462-ba874580-ba41-11eb-9e5a-8c2ef0085233.jpg)
@@ -64,6 +65,10 @@ This project is divided into two part:
 
 * For training purposes, we use sklrean library.
 * For deployment, we use Flask and Heroku.
+
+## Deployement on Heroku
+![Screenshot (197)](https://user-images.githubusercontent.com/37875797/119140674-14980300-ba62-11eb-942d-d5dca1b1d4c5.png)
+
 
 ## Directory Tree 
 ```
