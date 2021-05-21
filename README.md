@@ -76,6 +76,8 @@ This project is divided into two part:
 ├── requirements.txt
 ```
 ## Technologies Used
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
 * Flask
 * Heroku
 * Sklearn
