@@ -17,6 +17,7 @@
 
 ## Demo
 Web App Link - https://flightfarepredictors.herokuapp.com/predict
+
 ![Screenshot (196)](https://user-images.githubusercontent.com/37875797/119140894-4dd07300-ba62-11eb-84f7-8d773bb553dc.png)
 
 
