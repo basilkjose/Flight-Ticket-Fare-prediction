@@ -44,6 +44,8 @@ This Project is used to predict the flight prices. We will use Flight Price Data
 *  Calculated the total flight duration
 
 ## Modeling
+It is machine learning regression preoblem.
+
 Algorithms used
 * Extra Trees Regressor
 
