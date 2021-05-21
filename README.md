@@ -62,3 +62,17 @@ This project is divided into two part:
 
 * For training purposes, we use sklrean library.
 * For deployment, we use Flask and Heroku.
+
+## Directory Tree 
+```
+├── static 
+│   ├── css
+├── template
+│   ├── home.html
+├── Procfile
+├── README.md
+├── app.py
+├── flight_price.ipynb
+├── flight_rf.pkl
+├── requirements.txt
+```
